@@ -4,6 +4,28 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 1.1:
 
+
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- [Best Unity 6 setup for XR using Universal Render Pipeline - Step by Step Performance Guide](https://www.youtube.com/watch?v=Vlmy0JJ_E3c)
+
+</details>
+
+
+- Configuraciones VR Unity 6
+	- Eliminar de packages innecesarios
+	- Optimizaciones en Projects Settings
+	- Habilitar SpriteAtlas para reducir los DrawCalls
+	- Mobile_RPAsset
+
+
+
+
+
+
+
+
+
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - 1. [VR Optimization and Performance Tips for Unity](https://www.youtube.com/watch?v=xqgt9W4Zrjg)
@@ -18,7 +40,6 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 </details>
 
 - 1. Conceptos clave en optimización
-- 2. Configuraciones VR Unity 6
 - 3. Oclusión culling
 - 4. Draw calls
 - 5. Configuraciones puntuales y de la documentación oficial pero del 2021
