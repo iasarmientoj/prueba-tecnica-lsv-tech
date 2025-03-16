@@ -16,7 +16,8 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 	- Eliminar de packages innecesarios
 	- Optimizaciones en Projects Settings
 	- Habilitar SpriteAtlas para reducir los DrawCalls
-	- Mobile_RPAsset
+	- Configurar Mobile_RPAsset
+	- 
 
 
 

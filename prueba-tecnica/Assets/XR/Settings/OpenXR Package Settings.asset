@@ -138,7 +138,7 @@ MonoBehaviour:
   targetDevices:
   - visibleName: Quest
     manifestName: quest
-    enabled: 1
+    enabled: 0
   - visibleName: Quest 2
     manifestName: quest2
     enabled: 1
@@ -152,11 +152,11 @@ MonoBehaviour:
     manifestName: quest3s
     enabled: 1
   forceRemoveInternetPermission: 0
-  symmetricProjection: 0
+  symmetricProjection: 1
   foveatedRenderingApi: 0
   systemSplashScreen: {fileID: 0}
   optimizeBufferDiscards: 1
-  lateLatchingMode: 0
+  lateLatchingMode: 1
   lateLatchingDebug: 0
 --- !u!114 &-6139249530291636836
 MonoBehaviour:
@@ -213,9 +213,9 @@ MonoBehaviour:
   m_colorSubmissionModes:
     m_List: 00000000
   m_depthSubmissionMode: 0
-  m_optimizeBufferDiscards: 0
-  m_symmetricProjection: 0
-  m_foveatedRenderingApi: 0
+  m_optimizeBufferDiscards: 1
+  m_symmetricProjection: 1
+  m_foveatedRenderingApi: 1
 --- !u!114 &-5522062798155124503
 MonoBehaviour:
   m_ObjectHideFlags: 0
