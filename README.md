@@ -44,8 +44,6 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - [How To Make a VR Multiplayer Game - Unity Netcode](https://www.youtube.com/watch?v=6fZ7LT5AeTw)
-- [Turn your Unity Game Multiplayer, NOW!](https://www.youtube.com/watch?v=2OLUdPkkQPI)
-- [Connect Across Devices on same LAN | Unity Netcode - Quick Tutorial](https://www.youtube.com/watch?v=yCQ26wADnDM)
 
 </details>
 
@@ -54,11 +52,19 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 2.2: Configurar la lógica de conexión local (host/cliente).
 
--
+- Desarrollado en la Tarea 3.2
+- Funciona en LAN, sin necesidad de servidores externos
 
 ### Tarea 2.3: Desarrollar la UI para selección y validación de IP (formato 192.168.x.x) y manejo de errores.
 
--
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- Minuto 08:39 Crear UIs [Make a VR multiplayer game - part 2 | Unity](https://www.youtube.com/watch?v=OT12GfUKpYI)
+- [Connect Across Devices on same LAN | Unity Netcode - Quick Tutorial](https://www.youtube.com/watch?v=yCQ26wADnDM)
+
+</details>
+
+- Extraje el teclado del VR Sample
 
 ### Tarea 3.1: Configurar el XR Origin con Action-Based Continuous Move Provider.
 
@@ -82,7 +88,9 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 </details>
 
--
+- Modelo de cabeza utilizado: [Loomis Head Foundation](https://sketchfab.com/3d-models/loomis-head-foundation-f0ed55b94b334bd7ac9e5e5656cd5bc0)
+- Deshabilitar la cabeza para el propio jugador, los demás sí lo ven
+- Movimientos y animaciones solo afectan al player propio
 
 ### Tarea 4.1: Configurar Objeto 1 con Rigidbody, gravedad activada, colisiones precisas y uso de Physics.Simulate.
 
@@ -143,14 +151,6 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 
 
-
-con netcode en ultimas
-https://www.youtube.com/watch?v=6fZ7LT5AeTw
-
-uis de aqui 8:39
-https://www.youtube.com/watch?v=OT12GfUKpYI
-- Extraer UIs de este tutorial
-- [Make a VR multiplayer game, Part 1 | Unity](https://www.youtube.com/watch?v=i9GVZp9GZUE)
 
 
 
