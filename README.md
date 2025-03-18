@@ -96,6 +96,12 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 4.1: Configurar Objeto 1 con Rigidbody, gravedad activada, colisiones precisas y uso de Physics.Simulate.
 
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- [How To Make A Game With Unity Multiplayer Netcode | Network Physics And Network Object Pooling](https://www.youtube.com/watch?v=DfUUyEWUhwQ&t=232s)
+
+</details>
+
 - Modelar logo de empresa en 3D
 - Configurar objeto interactivo
 - Configurar Movimiento Continuo

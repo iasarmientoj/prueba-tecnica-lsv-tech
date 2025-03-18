@@ -1,16 +1,17 @@
+using Unity.Netcode;
 using UnityEngine;
 
 public class NetworkSpawn : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    public GameObject prefab;
 
-    // Update is called once per frame
-    void Update()
+
+    public void Spawn()
     {
-        
+       GameObject go = Instantiate(prefab, transform.position, Quaternion.identity);
+
+        go.GetComponent<NetworkObject>().Spawn();
+
+
     }
 }
