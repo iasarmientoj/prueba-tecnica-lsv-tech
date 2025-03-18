@@ -65,6 +65,8 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 </details>
 
 - Extraje el teclado del VR Sample
+- UI de conexión y desconexión
+- Implementada solo la conexión por ahora
 
 ### Tarea 3.1: Configurar el XR Origin con Action-Based Continuous Move Provider.
 
