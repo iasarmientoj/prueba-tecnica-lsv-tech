@@ -66,7 +66,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 - Extraje el teclado del VR Sample
 - UI de conexión y desconexión
-- Implementada solo la conexión por ahora
+- Implementada solo la conexión LAN por ahora, no la desconexión
 
 ### Tarea 3.1: Configurar el XR Origin con Action-Based Continuous Move Provider.
 
@@ -96,7 +96,11 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 4.1: Configurar Objeto 1 con Rigidbody, gravedad activada, colisiones precisas y uso de Physics.Simulate.
 
--
+- Modelar logo de empresa en 3D
+- Configurar objeto interactivo
+- Configurar Movimiento Continuo
+- Agregar Physics.Simulate
+- Sincronizar Rigidbody con Netcode
 
 ### Tarea 4.2: Crear Objeto 2 cinemático controlado por triggers (ej.: plataforma móvil).
 
@@ -112,7 +116,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 5.1: Definir y desarrollar la mecánica creativa.
 
--
+- Desarrollado parcialmente
 
 ### Tarea 5.2: Organizar el código de forma modular (uso de #region, comentarios XML, patrones de diseño).
 
@@ -120,11 +124,11 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 5.3: Implementar pruebas unitarias para la lógica principal con Unity Test Framework.
 
--
+- No desarrollado
 
 ### Tarea 6.1: Desarrollar pruebas automatizadas que simulen interacciones multijugador y condiciones de lag con Unity Test Framework.
 
--
+- No desarrollado
 
 ### Tarea 6.2: Integrar Addressables para carga dinámica de assets y optimizar Draw Calls con GPU Instancing.
 
@@ -132,11 +136,11 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 6.3: Ajustar la configuración de URP para optimización de rendimiento.
 
--
+- Desarrollador en Tarea 1.3
 
 ### Tarea 7.1: Grabar y editar el vídeo de demostración (3-5 minutos).
 
--
+- 
 
 ### Tarea 7.2: Organizar y documentar el código fuente (incluyendo pruebas unitarias).
 
