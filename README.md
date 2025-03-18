@@ -96,21 +96,17 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 4.1: Configurar Objeto 1 con Rigidbody, gravedad activada, colisiones precisas y uso de Physics.Simulate.
 
-<details><summary><i>Tutoriales guía:</i></summary>
-
-- [How To Make A Game With Unity Multiplayer Netcode | Network Physics And Network Object Pooling](https://www.youtube.com/watch?v=DfUUyEWUhwQ&t=232s)
-
-</details>
-
 - Modelar logo de empresa en 3D
 - Configurar objeto interactivo
 - Configurar Movimiento Continuo
 - Agregar Physics.Simulate
-- Sincronizar Rigidbody con Netcode
+- Este objeto NO está sincroniizado para todos los jugadores
 
 ### Tarea 4.2: Crear Objeto 2 cinemático controlado por triggers (ej.: plataforma móvil).
 
--
+- Plataforma simple con cubos
+- Triggers para  activar el movimiento de la plataforma
+- Este objeto NO está sincroniizado para todos los jugadores
 
 ### Tarea 4.3: Configurar Objeto 3 dinámico con constraints (ej.: puerta giratoria).
 
@@ -118,6 +114,13 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 4.4: Implementar la lógica de exclusividad (desactivar collider al ser sostenido) usando NetworkVariable.
 
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- [How To Make A Game With Unity Multiplayer Netcode | Network Physics And Network Object Pooling](https://www.youtube.com/watch?v=DfUUyEWUhwQ&t=232s)
+
+</details>
+
+- Sincronizar Rigidbody con Netcode
 -
 
 ### Tarea 5.1: Definir y desarrollar la mecánica creativa.
