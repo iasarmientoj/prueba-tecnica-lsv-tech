@@ -134,7 +134,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 5.1: Definir y desarrollar la mecánica creativa.
 
-- Desarrollado parcialmente
+- No desarrollado
 
 ### Tarea 5.2: Organizar el código de forma modular (uso de #region, comentarios XML, patrones de diseño).
 
