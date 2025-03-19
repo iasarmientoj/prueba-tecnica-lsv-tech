@@ -1,4 +1,4 @@
-**Prueba Técnica - Experiencia de Realidad Virtual Multijugador**  
+#**Prueba Técnica - Experiencia de Realidad Virtual Multijugador**  
  
 Este repositorio contiene el desarrollo de una prueba técnica enfocada en la creación de una experiencia de realidad virtual multijugador en Unity 6, utilizando URP, XR Interaction Toolkit y una solución de red como Mirror Networking o Unity Netcode.  
 
@@ -150,11 +150,12 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 6.2: Integrar Addressables para carga dinámica de assets y optimizar Draw Calls con GPU Instancing.
 
-- No desarrollado
+- Addressables NO implementado
+- Habilitar GPU Instancing en nuevos materiales agregados
 
 ### Tarea 6.3: Ajustar la configuración de URP para optimización de rendimiento.
 
-- Habilitar GPU Instancing en nuevos materiales agregados
+- Desarrollado en Tarea 1.3
 
 ### Tarea 7.1: Grabar y editar el vídeo de demostración (3-5 minutos).
 
@@ -162,23 +163,15 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 7.2: Organizar y documentar el código fuente (incluyendo pruebas unitarias).
 
--
+- 
 
 ### Tarea 7.3: Generar la build ejecutable (.exe o APK compatible con Meta Quest/Pico, 64-bit, Vulkan).
 
--
+- 
 
 ### Tarea 7.4: Redactar el documento técnico explicando decisiones de diseño y optimizaciones aplicadas.
 
--
-
-
-
-
-
-
-
-
+- 
 
 ### Otros tutoriales seguidos:
 
