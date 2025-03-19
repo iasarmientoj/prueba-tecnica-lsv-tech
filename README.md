@@ -1,5 +1,7 @@
 # **Prueba Técnica - Experiencia de Realidad Virtual Multijugador**  
- 
+
+![entorno](/Recursos/entorno.png "entorno")
+
 Este repositorio contiene el desarrollo de una prueba técnica enfocada en la creación de una experiencia de realidad virtual multijugador en Unity 6, utilizando URP, XR Interaction Toolkit y una solución de red como Mirror Networking o Unity Netcode.  
 
 ### Tarea 1.1: Crear el proyecto en Unity 6 y configurar el Universal Render Pipeline.
@@ -96,6 +98,8 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 4.1: Configurar Objeto 1 con Rigidbody, gravedad activada, colisiones precisas y uso de Physics.Simulate.
 
+![objeto1](/Recursos/objeto1.png "objeto1")
+
 - Modelar e importar Room
 - Bake lighting
 - Modelar e importar logo de empresa en 3D
@@ -106,11 +110,15 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 4.2: Crear Objeto 2 cinemático controlado por triggers (ej.: plataforma móvil).
 
+![objeto2](/Recursos/objeto2.png "objeto2")
+
 - Plataforma simple con cubos
 - Triggers para activar el movimiento de la plataforma
 - Este objeto NO está sincroniizado para todos los jugadores
 
 ### Tarea 4.3: Configurar Objeto 3 dinámico con constraints (ej.: puerta giratoria).
+
+![objeto3](/Recursos/objeto3.png "objeto3")
 
 <details><summary><i>Tutoriales guía:</i></summary>
 
@@ -122,6 +130,8 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 - Uso de Hinge Join
 
 ### Tarea 4.4: Implementar la lógica de exclusividad (desactivar collider al ser sostenido) usando NetworkVariable.
+
+![objeto4](/Recursos/objeto4.png "objeto4")
 
 <details><summary><i>Tutoriales guía:</i></summary>
 

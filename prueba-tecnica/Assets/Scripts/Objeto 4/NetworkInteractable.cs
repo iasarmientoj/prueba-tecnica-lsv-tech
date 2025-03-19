@@ -56,6 +56,8 @@ public class NetworkInteractable : NetworkBehaviour
     private void OnValueChange(bool wasHeld, bool _isHeld)
     {
         Debug.Log(_isHeld ? "isHeld" : "isNotHeld");
+        col.enabled = !_isHeld;
+        rb.useGravity = !_isHeld;
     }
 
     /// <summary>
