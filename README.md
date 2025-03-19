@@ -96,7 +96,9 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 4.1: Configurar Objeto 1 con Rigidbody, gravedad activada, colisiones precisas y uso de Physics.Simulate.
 
-- Modelar logo de empresa en 3D
+- Modelar e importar Room
+- Bake lighting
+- Modelar e importar logo de empresa en 3D
 - Configurar objeto interactivo
 - Configurar Movimiento Continuo
 - Agregar Physics.Simulate
@@ -105,12 +107,19 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 ### Tarea 4.2: Crear Objeto 2 cinemático controlado por triggers (ej.: plataforma móvil).
 
 - Plataforma simple con cubos
-- Triggers para  activar el movimiento de la plataforma
+- Triggers para activar el movimiento de la plataforma
 - Este objeto NO está sincroniizado para todos los jugadores
 
 ### Tarea 4.3: Configurar Objeto 3 dinámico con constraints (ej.: puerta giratoria).
 
--
+<details><summary><i>Tutoriales guía:</i></summary>
+
+- [Creating a HINGE DOOR in UNITY!](https://www.youtube.com/watch?v=45uFaC1cnuI)
+
+</details>
+
+- Modelado de puerta giratoria
+- Uso de Hinge Join
 
 ### Tarea 4.4: Implementar la lógica de exclusividad (desactivar collider al ser sostenido) usando NetworkVariable.
 
@@ -129,7 +138,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 5.2: Organizar el código de forma modular (uso de #region, comentarios XML, patrones de diseño).
 
--
+- 
 
 ### Tarea 5.3: Implementar pruebas unitarias para la lógica principal con Unity Test Framework.
 
@@ -141,11 +150,11 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 6.2: Integrar Addressables para carga dinámica de assets y optimizar Draw Calls con GPU Instancing.
 
--
+- No desarrollado
 
 ### Tarea 6.3: Ajustar la configuración de URP para optimización de rendimiento.
 
-- Desarrollador en Tarea 1.3
+- Habilitar GPU Instancing en nuevos materiales agregados
 
 ### Tarea 7.1: Grabar y editar el vídeo de demostración (3-5 minutos).
 
