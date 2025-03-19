@@ -137,6 +137,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 ### Tarea 5.1: Definir y desarrollar la mecánica creativa.
 
 - No desarrollado
+- Motivo: El tiempo de desarrollo fue muy corto y al no tener un Headset disponible la capacidad creativa en el desarrollo se ve limitada
 
 ### Tarea 5.2: Organizar el código de forma modular (uso de #region, comentarios XML, patrones de diseño).
 
@@ -145,14 +146,17 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 ### Tarea 5.3: Implementar pruebas unitarias para la lógica principal con Unity Test Framework.
 
 - No desarrollado
+- Motivo: Tiempo de desarrollo corto
 
 ### Tarea 6.1: Desarrollar pruebas automatizadas que simulen interacciones multijugador y condiciones de lag con Unity Test Framework.
 
 - No desarrollado
+- Motivo: Tiempo de desarrollo corto
 
 ### Tarea 6.2: Integrar Addressables para carga dinámica de assets y optimizar Draw Calls con GPU Instancing.
 
 - Addressables NO implementado
+- Motivo: Tiempo de desarrollo corto
 - Habilitar GPU Instancing en nuevos materiales agregados
 
 ### Tarea 6.3: Ajustar la configuración de URP para optimización de rendimiento.
@@ -165,7 +169,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 7.2: Organizar y documentar el código fuente (incluyendo pruebas unitarias).
 
-- 
+- Desarrollado en Tarea 5.2
 
 ### Tarea 7.3: Generar la build ejecutable (.exe o APK compatible con Meta Quest/Pico, 64-bit, Vulkan).
 
