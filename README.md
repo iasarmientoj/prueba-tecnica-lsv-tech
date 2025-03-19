@@ -1,4 +1,4 @@
-#**Prueba Técnica - Experiencia de Realidad Virtual Multijugador**  
+# **Prueba Técnica - Experiencia de Realidad Virtual Multijugador**  
  
 Este repositorio contiene el desarrollo de una prueba técnica enfocada en la creación de una experiencia de realidad virtual multijugador en Unity 6, utilizando URP, XR Interaction Toolkit y una solución de red como Mirror Networking o Unity Netcode.  
 
