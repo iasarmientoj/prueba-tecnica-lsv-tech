@@ -165,7 +165,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 7.1: Grabar y editar el vídeo de demostración (3-5 minutos).
 
-- 
+- Disponible aquí: []()
 
 ### Tarea 7.2: Organizar y documentar el código fuente (incluyendo pruebas unitarias).
 
@@ -173,7 +173,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 7.3: Generar la build ejecutable (.exe o APK compatible con Meta Quest/Pico, 64-bit, Vulkan).
 
-- 
+- Disponible aquí: []()
 
 ### Tarea 7.4: Redactar el documento técnico explicando decisiones de diseño y optimizaciones aplicadas.
 
