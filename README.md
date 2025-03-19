@@ -140,7 +140,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 5.2: Organizar el código de forma modular (uso de #region, comentarios XML, patrones de diseño).
 
-- 
+- Código refactorizado, estructurado y comentado
 
 ### Tarea 5.3: Implementar pruebas unitarias para la lógica principal con Unity Test Framework.
 
