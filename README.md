@@ -177,7 +177,7 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 
 ### Tarea 7.4: Redactar el documento técnico explicando decisiones de diseño y optimizaciones aplicadas.
 
-- 
+- Disponible aquí: [Documento Técnico: Experiencia de Realidad Virtual Multijugador](https://github.com/iasarmientoj/prueba-tecnica-lsv-tech/blob/main/Entregables/documento-tecnico.md)
 
 ### Otros tutoriales seguidos:
 
