@@ -126,11 +126,13 @@ Este repositorio contiene el desarrollo de una prueba técnica enfocada en la cr
 <details><summary><i>Tutoriales guía:</i></summary>
 
 - [How To Make A Game With Unity Multiplayer Netcode | Network Physics And Network Object Pooling](https://www.youtube.com/watch?v=DfUUyEWUhwQ&t=232s)
+- [Unity Netcode For Gameobject - Network Variables](https://www.youtube.com/watch?v=NvIZ45MyiPY&t=158s)
 
 </details>
 
 - Sincronizar Rigidbody con Netcode
--
+- Agregar todos los componentes necesarios para ser manipulado tanto por el host como por el cliente
+- Activar y desactivar Collider cuando el objeto está sostenido por un jugador con NetworkVariable
 
 ### Tarea 5.1: Definir y desarrollar la mecánica creativa.
 
